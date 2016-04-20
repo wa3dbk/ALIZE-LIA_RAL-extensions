@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/LIA_RAL/!svn/ver/270/branches/2.5_BioSpeak
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LIA_RAL/!svn/ver/255/branches/2.5_BioSpeak/configure
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LIA_RAL/!svn/ver/255/branches/2.5_BioSpeak/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/README
+END
+LIA_RAL.sln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/LIA_RAL.sln
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/COPYING.LESSER
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/missing
+END
+DOCUMENTATION
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/DOCUMENTATION
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/Makefile.am
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/doxygen.cfg
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/LIA_RAL/!svn/ver/255/branches/2.5_BioSpeak/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/LIA_RAL/!svn/ver/201/branches/2.5_BioSpeak/install-sh
+END

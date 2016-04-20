@@ -1,0 +1,116 @@
+10
+
+dir
+270
+http://alize.univ-avignon.fr/svn/LIA_RAL/branches/2.5_BioSpeak/LIA_Utils
+http://alize.univ-avignon.fr/svn/LIA_RAL
+
+
+
+2013-02-21T06:24:57.325264Z
+226
+alarcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1290fa5e-fd49-494a-a208-9d5a245c2233
+
+NAPSV
+dir
+
+ReadModel
+dir
+
+SequenceDecoder
+dir
+
+FusionScore
+dir
+
+TimeCluster
+dir
+
+PolyExp
+dir
+
+LabelFusion
+dir
+
+Scoring
+dir
+
+LabelNGram
+dir
+
+SequenceExtractor
+dir
+
+ScoreWarp
+dir
+
+Svm
+dir
+
+BNGram
+dir
+
+Hist
+dir
+
+Makefile.am
+file
+
+
+
+
+2013-09-02T08:24:43.000000Z
+bb8d08430f3367b9217b96c87438e48a
+2013-02-21T06:24:57.325264Z
+226
+alarcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+159
+
+ReadFeatFile
+dir
+
+GmmTokenizer
+dir
+
+ModelToSv
+dir
+
+ExtractParams
+dir
+

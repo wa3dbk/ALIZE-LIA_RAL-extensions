@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread
+END
+pthreadVSE2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread/pthreadVSE2.dll
+END
+pthreadVC2_x64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread/pthreadVC2_x64.lib
+END
+pthreadVSE2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread/pthreadVSE2.lib
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread/sched.h
+END
+pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread/pthread.h
+END
+pthreadVC2_x64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/include/Pthread/pthreadVC2_x64.dll
+END

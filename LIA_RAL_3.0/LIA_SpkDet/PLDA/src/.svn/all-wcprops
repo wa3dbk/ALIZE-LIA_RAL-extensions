@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/LIA_SpkDet/PLDA/src
+END
+PLDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/LIA_SpkDet/PLDA/src/PLDA.cpp
+END
+PLDAMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/LIA_SpkDet/PLDA/src/PLDAMain.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/LIA_SpkDet/PLDA/src/Makefile.am
+END

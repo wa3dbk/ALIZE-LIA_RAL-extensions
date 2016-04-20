@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LIA_RAL/!svn/ver/227/branches/2.5_BioSpeak/wincfg
+END
+EnergyDetector_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/EnergyDetector_2010.vcxproj
+END
+TrainTarget_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/TrainTarget_2010.vcxproj
+END
+TrainWorld_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/TrainWorld_2010.vcxproj
+END
+NAPSV_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/NAPSV_2010.vcxproj
+END
+PLDA_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/PLDA_2010.vcxproj.filters
+END
+EnergyDetector_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/EnergyDetector_2010.vcxproj.filters
+END
+TrainTarget_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/TrainTarget_2010.vcxproj.filters
+END
+TrainWorld_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/TrainWorld_2010.vcxproj.filters
+END
+SequenceDecoder_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/SequenceDecoder_2010.vcxproj
+END
+NAPSV_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/NAPSV_2010.vcxproj.filters
+END
+ShiftedDeltaFeat_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ShiftedDeltaFeat_2010.vcxproj
+END
+LabelFusion_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/LabelFusion_2010.vcxproj
+END
+Scoring_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/Scoring_2010.vcxproj
+END
+SequenceDecoder_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/SequenceDecoder_2010.vcxproj.filters
+END
+ShiftedDeltaFeat_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ShiftedDeltaFeat_2010.vcxproj.filters
+END
+SpkAdapt_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/SpkAdapt_2010.vcxproj
+END
+LabelFusion_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/LabelFusion_2010.vcxproj.filters
+END
+Scoring_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/Scoring_2010.vcxproj.filters
+END
+GmmTokenizer_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/GmmTokenizer_2010.vcxproj
+END
+ComputeJFAStats_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ComputeJFAStats_2010.vcxproj
+END
+SpkAdapt_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/SpkAdapt_2010.vcxproj.filters
+END
+GmmTokenizer_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/GmmTokenizer_2010.vcxproj.filters
+END
+ComputeJFAStats_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ComputeJFAStats_2010.vcxproj.filters
+END
+ScorpioGenerator_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ScorpioGenerator_2010.vcxproj
+END
+ScorpioGenerator_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ScorpioGenerator_2010.vcxproj.filters
+END
+ReadModel_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ReadModel_2010.vcxproj
+END
+PolyExp_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/PolyExp_2010.vcxproj
+END
+ReadModel_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ReadModel_2010.vcxproj.filters
+END
+Svm_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/Svm_2010.vcxproj
+END
+BNGram_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/BNGram_2010.vcxproj
+END
+PolyExp_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/PolyExp_2010.vcxproj.filters
+END
+NormFeat_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/NormFeat_2010.vcxproj
+END
+ModelToSv_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ModelToSv_2010.vcxproj
+END
+Svm_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/Svm_2010.vcxproj.filters
+END
+BNGram_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/BNGram_2010.vcxproj.filters
+END
+ScorpioTest_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ScorpioTest_2010.vcxproj
+END
+IvTest_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LIA_RAL/!svn/ver/227/branches/2.5_BioSpeak/wincfg/IvTest_2010.vcxproj
+END
+NormFeat_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/NormFeat_2010.vcxproj.filters
+END
+ModelToSv_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ModelToSv_2010.vcxproj.filters
+END
+TotalVariability_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/TotalVariability_2010.vcxproj
+END
+ScorpioTest_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ScorpioTest_2010.vcxproj.filters
+END
+IvTest_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LIA_RAL/!svn/ver/227/branches/2.5_BioSpeak/wincfg/IvTest_2010.vcxproj.filters
+END
+liatools_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/liatools_2010.vcxproj
+END
+TotalVariability_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/TotalVariability_2010.vcxproj.filters
+END
+liatools_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/liatools_2010.vcxproj.filters
+END
+FusionScore_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/FusionScore_2010.vcxproj
+END
+TimeCluster_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/TimeCluster_2010.vcxproj
+END
+LabelNGram_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/LabelNGram_2010.vcxproj
+END
+EstimateDMatrix_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/EstimateDMatrix_2010.vcxproj
+END
+ScoreWarp_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ScoreWarp_2010.vcxproj
+END
+FusionScore_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/FusionScore_2010.vcxproj.filters
+END
+TimeCluster_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/TimeCluster_2010.vcxproj.filters
+END
+IvNorm_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/IvNorm_2010.vcxproj
+END
+IvExtractor_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/227/branches/2.5_BioSpeak/wincfg/IvExtractor_2010.vcxproj
+END
+LabelNGram_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/LabelNGram_2010.vcxproj.filters
+END
+EstimateDMatrix_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/EstimateDMatrix_2010.vcxproj.filters
+END
+ComputeTest_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ComputeTest_2010.vcxproj
+END
+ScoreWarp_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ScoreWarp_2010.vcxproj.filters
+END
+EigenVoice_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/EigenVoice_2010.vcxproj
+END
+ExtractParams_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ExtractParams_2010.vcxproj
+END
+EigenChannel_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/EigenChannel_2010.vcxproj
+END
+IvNorm_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/IvNorm_2010.vcxproj.filters
+END
+IvExtractor_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/227/branches/2.5_BioSpeak/wincfg/IvExtractor_2010.vcxproj.filters
+END
+ComputeTest_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ComputeTest_2010.vcxproj.filters
+END
+EigenVoice_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/EigenVoice_2010.vcxproj.filters
+END
+ExtractParams_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ExtractParams_2010.vcxproj.filters
+END
+EigenChannel_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/EigenChannel_2010.vcxproj.filters
+END
+SequenceExtractor_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/SequenceExtractor_2010.vcxproj
+END
+Hist_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/Hist_2010.vcxproj
+END
+NormFeatWindowMode_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/NormFeatWindowMode_2010.vcxproj
+END
+ComputeNorm_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ComputeNorm_2010.vcxproj
+END
+SequenceExtractor_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/SequenceExtractor_2010.vcxproj.filters
+END
+ReadFeatFile_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/ReadFeatFile_2010.vcxproj
+END
+Hist_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/Hist_2010.vcxproj.filters
+END
+ComputeNorm_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ComputeNorm_2010.vcxproj.filters
+END
+NormFeatWindowMode_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/NormFeatWindowMode_2010.vcxproj.filters
+END
+PLDA_2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LIA_RAL/!svn/ver/226/branches/2.5_BioSpeak/wincfg/PLDA_2010.vcxproj
+END
+ReadFeatFile_2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/LIA_RAL/!svn/ver/204/branches/2.5_BioSpeak/wincfg/ReadFeatFile_2010.vcxproj.filters
+END

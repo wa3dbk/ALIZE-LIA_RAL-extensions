@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ALIZE/!svn/ver/134/branches/2.5_BioSpeak
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ALIZE/!svn/ver/126/branches/2.5_BioSpeak/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ALIZE/!svn/ver/125/branches/2.5_BioSpeak/README
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/config.sub
+END
+ALIZE.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ALIZE/!svn/ver/124/branches/2.5_BioSpeak/ALIZE.sln
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/COPYING.LESSER
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/125/branches/2.5_BioSpeak/libtool
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/missing
+END
+DOCUMENTATION
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/DOCUMENTATION
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/Makefile.am
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/doxygen.cfg
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ALIZE/!svn/ver/125/branches/2.5_BioSpeak/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ALIZE/!svn/ver/125/branches/2.5_BioSpeak/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ALIZE/!svn/ver/121/branches/2.5_BioSpeak/install-sh
+END

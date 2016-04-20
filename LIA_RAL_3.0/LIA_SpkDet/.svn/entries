@@ -1,0 +1,119 @@
+10
+
+dir
+270
+http://alize.univ-avignon.fr/svn/LIA_RAL/branches/2.5_BioSpeak/LIA_SpkDet
+http://alize.univ-avignon.fr/svn/LIA_RAL
+
+
+
+2013-08-23T07:44:27.277521Z
+270
+alarcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1290fa5e-fd49-494a-a208-9d5a245c2233
+
+EigenChannel
+dir
+
+PLDA
+dir
+
+TotalVariability
+dir
+
+EnergyDetector
+dir
+
+TrainTarget
+dir
+
+TrainWorld
+dir
+
+CovIntra
+dir
+
+ShiftedDeltaFeat
+dir
+
+EstimateDMatrix
+dir
+
+SpkAdapt
+dir
+
+NormFeatWindowMode
+dir
+
+ComputeNorm
+dir
+
+Makefile.am
+file
+
+
+
+
+2013-09-02T08:24:37.000000Z
+95f728a37037aba43ad999d6fb404e9a
+2013-02-21T06:24:57.325264Z
+226
+alarcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+276
+
+IvNorm
+dir
+
+IvExtractor
+dir
+
+NormFeat
+dir
+
+ComputeTest
+dir
+
+ComputeJFAStats
+dir
+
+EigenVoice
+dir
+
+IvTest
+dir
+

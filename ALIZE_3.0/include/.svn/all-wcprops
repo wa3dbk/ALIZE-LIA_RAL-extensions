@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ALIZE/!svn/ver/133/branches/2.5_BioSpeak/include
+END
+MixtureStat.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureStat.h
+END
+MixtureServerFileReaderAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureServerFileReaderAbstract.h
+END
+RefVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/133/branches/2.5_BioSpeak/include/RefVector.h
+END
+ConfigFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ConfigFileWriter.h
+END
+LabelFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/LabelFileReader.h
+END
+FeatureFileReaderSPro4.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReaderSPro4.h
+END
+FeatureFlags.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFlags.h
+END
+DistribGD.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/DistribGD.h
+END
+ConfigFileReaderAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ConfigFileReaderAbstract.h
+END
+DistribGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/DistribGF.h
+END
+Seg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Seg.h
+END
+FeatureFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReader.h
+END
+FeatureFileReaderSingle.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReaderSingle.h
+END
+SegCluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/SegCluster.h
+END
+AudioFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/AudioFileReader.h
+END
+MixtureServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureServer.h
+END
+FeatureInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureInputStream.h
+END
+MixtureFileReaderRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureFileReaderRaw.h
+END
+Mixture.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Mixture.h
+END
+Distrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Distrib.h
+END
+FrameAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FrameAcc.h
+END
+StatServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/StatServer.h
+END
+FileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FileReader.h
+END
+alize.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ALIZE/!svn/ver/122/branches/2.5_BioSpeak/include/alize.h
+END
+MixtureGDStat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureGDStat.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Object.h
+END
+MixtureGFStat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureGFStat.h
+END
+LabelServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/LabelServer.h
+END
+MixtureFileReaderAmiral.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureFileReaderAmiral.h
+END
+ULongVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ULongVector.h
+END
+MixtureServerFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureServerFileReader.h
+END
+ConfigFileReaderXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ConfigFileReaderXml.h
+END
+Label.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Label.h
+END
+XLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/XLine.h
+END
+BoolMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/123/branches/2.5_BioSpeak/include/BoolMatrix.h
+END
+FeatureServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureServer.h
+END
+Histo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Histo.h
+END
+XListFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/XListFileReader.h
+END
+MixtureServerFileReaderXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureServerFileReaderXml.h
+END
+MixtureFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureFileWriter.h
+END
+LabelSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/LabelSet.h
+END
+Feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Feature.h
+END
+alizeString.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/alizeString.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Exception.h
+END
+MixtureDict.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureDict.h
+END
+SegServerFileReaderRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/SegServerFileReaderRaw.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ALIZE/!svn/ver/133/branches/2.5_BioSpeak/include/Matrix.h
+END
+MixtureFileReaderAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureFileReaderAbstract.h
+END
+SegServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/SegServer.h
+END
+FeatureFileReaderSPro3.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReaderSPro3.h
+END
+FeatureInputStreamModifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureInputStreamModifier.h
+END
+MixtureGD.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureGD.h
+END
+MixtureGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureGF.h
+END
+CmdLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/CmdLine.h
+END
+AudioFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/AudioFrame.h
+END
+FrameAccGD.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FrameAccGD.h
+END
+FrameAccGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FrameAccGF.h
+END
+FeatureFileReaderHTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReaderHTK.h
+END
+AutoDestructor.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/AutoDestructor.h
+END
+FeatureFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileWriter.h
+END
+LKVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/LKVector.h
+END
+ConfigChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ConfigChecker.h
+END
+FeatureMultipleFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureMultipleFileReader.h
+END
+AudioInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/AudioInputStream.h
+END
+MixtureFileReaderXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureFileReaderXml.h
+END
+FeatureFileReaderAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReaderAbstract.h
+END
+SegAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/SegAbstract.h
+END
+SegServerFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/SegServerFileWriter.h
+END
+ConfigFileReaderRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ConfigFileReaderRaw.h
+END
+XList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ALIZE/!svn/ver/133/branches/2.5_BioSpeak/include/XList.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/Config.h
+END
+RealVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/RealVector.h
+END
+FileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FileWriter.h
+END
+SegServerFileReaderAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/SegServerFileReaderAbstract.h
+END
+ViterbiAccum.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/ViterbiAccum.h
+END
+XmlParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/XmlParser.h
+END
+DistribRefVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/DistribRefVector.h
+END
+DoubleSquareMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/DoubleSquareMatrix.h
+END
+MixtureFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureFileReader.h
+END
+MixtureServerFileReaderRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureServerFileReaderRaw.h
+END
+MixtureServerFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/MixtureServerFileWriter.h
+END
+FeatureFileList.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileList.h
+END
+FeatureFileReaderRaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ALIZE/!svn/ver/120/branches/2.5_BioSpeak/include/FeatureFileReaderRaw.h
+END
