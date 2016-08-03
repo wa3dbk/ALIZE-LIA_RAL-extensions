@@ -2,11 +2,11 @@
 
 Tools and utilities for speaker recognition built using the ALIZE toolkit. 
 
-> **Disclaimer**: This is not the official repository for the ALIZE/LIA_RAL platform and should not be considered as a stable version of the toolkit. The sole goal of this repository is to provide users familiar with ALIZE/LIA_RAL additional tools and utilities which can be useful in their work. 
+> **Disclaimer**: This is not the official repository for the ALIZE/LIA_RAL platform and should not be considered as a stable version of the toolkit. The sole goal of this repository is to provide users familiar with ALIZE/LIA_RAL additional tools and utilities that can be useful in their work. 
 
 ## Downlad and install 
 
-In order to copy this repository's sources into a local directory, start by doing :
+In order to copy all sources into a local directory, start by doing (git must be installed first) :
 ```sh
 $ git clone https://github.com/wa3dbk/ALIZE-LIA_RAL-extensions.git .
 $ cd ALIZE-LIA_RAL-extensions
