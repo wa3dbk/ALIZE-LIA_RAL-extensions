@@ -1,6 +1,10 @@
 # ALIZE-LIA_RAL-extensions
 
-Tools and utilities for speaker recognition built using the ALIZE toolkit (this is not the official repository for the ALIZE/LIA_RAL platform).
+Tools and utilities for speaker recognition built using the ALIZE toolkit. 
+
+{note:title=Disclaimer}
+This is not the official repository for the ALIZE/LIA_RAL platform and should not be considered as a stable version of the toolkit. The sole goal of this repository is to provide users familiar with ALIZE/LIA_RAL additional tools and utilities which can be useful in their work. 
+{note}
 
 ## Downlad and install 
 
