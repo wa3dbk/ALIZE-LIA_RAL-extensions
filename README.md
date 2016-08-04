@@ -8,7 +8,7 @@ Tools and utilities for speaker recognition built using the ALIZE toolkit.
 
 In order to copy all sources into a local directory, start by doing (git must be installed first) :
 ```sh
-$ git clone https://github.com/wa3dbk/ALIZE-LIA_RAL-extensions.git .
+$ git clone https://github.com/wa3dbk/ALIZE-LIA_RAL-extensions.git
 $ cd ALIZE-LIA_RAL-extensions
 ```
 
