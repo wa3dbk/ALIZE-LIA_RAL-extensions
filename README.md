@@ -67,3 +67,13 @@ $ ./bin/ReadMat --inputFile ./mat/TV.matx --loadMatrixFormat DB
 
 will read TV.matx to STDOUT. 
 
+
+#### SaveApost
+Computes and saves the posterior probability vectors for each speech frame with respect to a world model. 
+
+Example of use: 
+```bash
+$ ./bin/SaveApost /SaveApost --inputFeatureFilename myfilename --inputWorldFilename ubm --inputModelFilename ubm --minLLK 200.0 --maxLLK 200.0 --loadMixtureFileExtension .gmm --loadMixtureFileFormat RAW --mixtureFilesPath ./
+```
+
+
