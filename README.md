@@ -73,7 +73,7 @@ Computes and saves the posterior probability vectors for each speech frame with 
 
 Example of use: 
 ```bash
-$ ./bin/SaveApost--inputFeatureFilename myfilename --inputWorldFilename ubm --inputModelFilename ubm --minLLK 200.0 --maxLLK 200.0 --loadMixtureFileExtension .gmm --loadMixtureFileFormat RAW --mixtureFilesPath ./
+$ ./bin/SaveApost --inputFeatureFilename myfilename --inputWorldFilename ubm --inputModelFilename ubm --minLLK 200.0 --maxLLK 200.0 --loadMixtureFileExtension .gmm --loadMixtureFileFormat RAW --mixtureFilesPath ./
 ```
 
 
