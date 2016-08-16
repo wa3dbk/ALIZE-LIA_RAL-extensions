@@ -94,8 +94,8 @@ am_ReadMat_OBJECTS = ReadMat-ReadMat.$(OBJEXT) \
 ReadMat_OBJECTS = $(am_ReadMat_OBJECTS)
 am__DEPENDENCIES_1 =
 ReadMat_DEPENDENCIES = $(am__DEPENDENCIES_1) $(am__DEPENDENCIES_1)
-ReadMat_LINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) \
-	$(ReadMat_LDFLAGS) $(LDFLAGS) -o $@
+ReadMat_LINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(ReadMat_LDFLAGS) \
+	$(LDFLAGS) -o $@
 AM_V_P = $(am__v_P_@AM_V@)
 am__v_P_ = $(am__v_P_@AM_DEFAULT_V@)
 am__v_P_0 = false

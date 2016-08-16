@@ -150,6 +150,14 @@ AC_OUTPUT([LIA_SpkTools/Makefile
                  LIA_Utils/ReadFeatFile/src/Makefile
                  LIA_Utils/ReadModel/Makefile
                  LIA_Utils/ReadModel/src/Makefile
+                 LIA_Utils/ReadMat/Makefile
+                 LIA_Utils/ReadMat/src/Makefile
+                 LIA_Utils/SaveApost/Makefile
+                 LIA_Utils/SaveApost/src/Makefile
+                 LIA_Utils/SaveClass/Makefile
+                 LIA_Utils/SaveClass/src/Makefile
+                 LIA_Utils/PrintLLK/Makefile
+                 LIA_Utils/PrintLLK/src/Makefile
                  LIA_Utils/ScoreWarp/Makefile
                  LIA_Utils/ScoreWarp/src/Makefile
                  LIA_Utils/Scoring/Makefile
