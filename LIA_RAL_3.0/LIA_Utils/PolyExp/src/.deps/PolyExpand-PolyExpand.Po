@@ -74,13 +74,13 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/4.8/bits/basic_ios.tcc \
  /usr/include/c++/4.8/bits/ostream.tcc /usr/include/c++/4.8/istream \
  /usr/include/c++/4.8/bits/istream.tcc \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/alize.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AutoDestructor.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Object.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/alize.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/AutoDestructor.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Object.h \
  /usr/include/c++/4.8/cassert /usr/include/assert.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Exception.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/alizeString.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/RealVector.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Exception.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/alizeString.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/RealVector.h \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/huge_val.h \
  /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
  /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
@@ -103,10 +103,10 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/RefVector.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DoubleSquareMatrix.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Feature.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Matrix.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/RefVector.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/DoubleSquareMatrix.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Feature.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Matrix.h \
  /usr/include/c++/4.8/cstdio /usr/include/libio.h \
  /usr/include/_G_config.h /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
@@ -117,82 +117,82 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/c++/4.8/bits/c++io.h \
  /usr/include/c++/4.8/bits/fstream.tcc \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Config.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFlags.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XList.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XLine.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/BoolMatrix.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ULongVector.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Label.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Histo.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LabelSet.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/CmdLine.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Seg.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegAbstract.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServer.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Config.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFlags.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/XList.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/XLine.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/BoolMatrix.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ULongVector.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Label.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Histo.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/LabelSet.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/CmdLine.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Seg.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegAbstract.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServer.h \
  /usr/include/c++/4.8/map /usr/include/c++/4.8/bits/stl_tree.h \
  /usr/include/c++/4.8/bits/stl_map.h \
  /usr/include/c++/4.8/bits/stl_multimap.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegCluster.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServerFileWriter.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FileWriter.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServerFileReaderRaw.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServerFileReaderAbstract.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DistribGD.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Distrib.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DistribGF.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGD.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Mixture.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DistribRefVector.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGF.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LabelServer.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServer.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureDict.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureServer.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureInputStream.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureStat.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/StatServer.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LKVector.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ViterbiAccum.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGDStat.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGFStat.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FrameAcc.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FrameAccGD.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FrameAccGF.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureMultipleFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderAbstract.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileList.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderRaw.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderSingle.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderSPro3.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderSPro4.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderHTK.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureInputStreamModifier.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderAmiral.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderAbstract.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderRaw.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderXml.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XmlParser.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileWriter.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileWriter.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReaderAbstract.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReaderXml.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReaderRaw.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileWriter.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileReaderRaw.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileReaderAbstract.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileReaderXml.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileWriter.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XListFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LabelFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AudioFrame.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AudioFileReader.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AudioInputStream.h \
- /home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigChecker.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegCluster.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServerFileWriter.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FileWriter.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServerFileReaderRaw.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServerFileReaderAbstract.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/DistribGD.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Distrib.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/DistribGF.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGD.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/Mixture.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/DistribRefVector.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGF.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/LabelServer.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServer.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureDict.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureServer.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureInputStream.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureStat.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/StatServer.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/LKVector.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ViterbiAccum.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGDStat.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGFStat.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FrameAcc.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FrameAccGD.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FrameAccGF.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureMultipleFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderAbstract.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileList.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderRaw.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderSingle.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderSPro3.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderSPro4.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderHTK.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureInputStreamModifier.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderAmiral.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderAbstract.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderRaw.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderXml.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/XmlParser.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileWriter.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileWriter.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReaderAbstract.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReaderXml.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReaderRaw.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileWriter.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileReaderRaw.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileReaderAbstract.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileReaderXml.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileWriter.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/XListFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/LabelFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/AudioFrame.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/AudioFileReader.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/AudioInputStream.h \
+ /home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigChecker.h \
  ../../../LIA_SpkTools/include/liatools.h ../../../include/Eigen/Dense \
  ../../../include/Eigen/Core \
  ../../../include/Eigen/src/Core/util/DisableStupidWarnings.h \
@@ -573,21 +573,21 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
 
 /usr/include/c++/4.8/bits/istream.tcc:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/alize.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/alize.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AutoDestructor.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/AutoDestructor.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Object.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Object.h:
 
 /usr/include/c++/4.8/cassert:
 
 /usr/include/assert.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Exception.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Exception.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/alizeString.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/alizeString.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/RealVector.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/RealVector.h:
 
 /usr/include/math.h:
 
@@ -643,13 +643,13 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/RefVector.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/RefVector.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DoubleSquareMatrix.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/DoubleSquareMatrix.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Feature.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Feature.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Matrix.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Matrix.h:
 
 /usr/include/c++/4.8/cstdio:
 
@@ -679,31 +679,31 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
 
 /usr/include/stdint.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Config.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Config.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFlags.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFlags.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XList.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/XList.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XLine.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/XLine.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/BoolMatrix.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/BoolMatrix.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ULongVector.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ULongVector.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Label.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Label.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Histo.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Histo.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LabelSet.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/LabelSet.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/CmdLine.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/CmdLine.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Seg.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Seg.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegAbstract.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegAbstract.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServer.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServer.h:
 
 /usr/include/c++/4.8/map:
 
@@ -713,125 +713,125 @@ PolyExpand-PolyExpand.o: PolyExpand.cpp /usr/include/stdc-predef.h \
 
 /usr/include/c++/4.8/bits/stl_multimap.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegCluster.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegCluster.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServerFileWriter.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServerFileWriter.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FileWriter.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FileWriter.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServerFileReaderRaw.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServerFileReaderRaw.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/SegServerFileReaderAbstract.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/SegServerFileReaderAbstract.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DistribGD.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/DistribGD.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Distrib.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Distrib.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DistribGF.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/DistribGF.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGD.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGD.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/Mixture.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/Mixture.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/DistribRefVector.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/DistribRefVector.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGF.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGF.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LabelServer.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/LabelServer.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServer.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServer.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureDict.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureDict.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureServer.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureServer.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureInputStream.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureInputStream.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureStat.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureStat.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/StatServer.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/StatServer.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LKVector.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/LKVector.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ViterbiAccum.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ViterbiAccum.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGDStat.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGDStat.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureGFStat.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureGFStat.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FrameAcc.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FrameAcc.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FrameAccGD.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FrameAccGD.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FrameAccGF.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FrameAccGF.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureMultipleFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureMultipleFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderAbstract.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderAbstract.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileList.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileList.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderRaw.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderRaw.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderSingle.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderSingle.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderSPro3.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderSPro3.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderSPro4.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderSPro4.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileReaderHTK.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileReaderHTK.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureInputStreamModifier.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureInputStreamModifier.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderAmiral.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderAmiral.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderAbstract.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderAbstract.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderRaw.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderRaw.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReaderXml.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReaderXml.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XmlParser.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/XmlParser.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureFileWriter.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureFileWriter.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileWriter.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileWriter.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReaderAbstract.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReaderAbstract.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReaderXml.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReaderXml.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/MixtureServerFileReaderRaw.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/MixtureServerFileReaderRaw.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/FeatureFileWriter.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/FeatureFileWriter.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileReaderRaw.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileReaderRaw.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileReaderAbstract.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileReaderAbstract.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileReaderXml.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileReaderXml.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigFileWriter.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigFileWriter.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/XListFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/XListFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/LabelFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/LabelFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AudioFrame.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/AudioFrame.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AudioFileReader.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/AudioFileReader.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/AudioInputStream.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/AudioInputStream.h:
 
-/home/waadbk/Téléchargements/nist16/alize/ALIZE-LIA_RAL-extensions/ALIZE_3.0//include/ConfigChecker.h:
+/home/laboinfo/benkheder/alize/ALIZE_3.0//include/ConfigChecker.h:
 
 ../../../LIA_SpkTools/include/liatools.h:
 
