@@ -16,7 +16,7 @@ Now, you should be able to see two directories :
 - **ALIZE_3.0 :** This directory corresponds to the ALIZE library. After compilation, a library file named libalize_xxx.a should have been produced (The xxx depnds on your OS).
 - **LIA_RAL_3.0 :** This directory corresponds to the LIA_RAL utilities. 
 
-Now you have to compile ALIZE first, then LIA_RAL (LIA_RAL uses the Alize library). You'll need autotools and automake to compile alize so if you don't have all the required binaries installed on your system (aclocal, automake and autoconf), you can run :
+Now you have to compile ALIZE first, then LIA_RAL (LIA_RAL uses the Alize library). You'll need autotools and automake to compile alize so if you don't have all the required binaries installed on your system (aclocal, automake and autoconf), you can run : 
 
 
 ```sh
