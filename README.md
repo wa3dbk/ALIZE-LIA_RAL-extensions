@@ -20,8 +20,8 @@ Now you have to compile ALIZE first, then LIA_RAL (LIA_RAL uses the Alize librar
 
 
 ```sh
-$ sudo apt-get install autotools-dev
-$ sudo apt-get install automake
+$ sudo apt-get install autotools-dev 
+$ sudo apt-get install automake 
 ```
 
 If you're using MacOS you'll probably need use brew of macPorts.
@@ -33,7 +33,7 @@ $ cd ALIZE_3.0/
 $ aclocal
 $ automake
 $ autoconf
-$ ./configure
+$ ./configure 
 $ make
 ```
 
@@ -60,7 +60,7 @@ If nothing went wrong in the previous step, you should have all LIA_RAL binaries
 #### ReadMat
 Allows to read any ALIZE binary file corresponding to a matrix or an i-vector (.matx and .y files). 
 
-Example of use: 
+Use:  
 ```bash
 $ ./bin/ReadMat --inputFile ./mat/TV.matx --loadMatrixFormat DB
 ```
